@@ -1,0 +1,2 @@
+# bankasiralama
+banka sıralamw uygulaması
